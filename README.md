@@ -128,11 +128,10 @@ plt.show()
 ```
 prodigy-infotech-task-01/
 ├── data/
-│   └── dataset.csv  # Sample dataset
+│   └── worldpopulation.csv  # Sample dataset
 ├── images/
-│   └── example_plot.png  # Example of generated plot
+│   └── plot.png  # Example of generated plot
 ├── prodigy_ds_01.ipynb  # Jupyter Notebook file
-├── requirements.txt  # Required Python packages
 └── README.md  # Project documentation
 ```
 
