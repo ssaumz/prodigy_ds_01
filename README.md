@@ -131,7 +131,7 @@ prodigy-infotech-task-01/
 │   └── dataset.csv  # Sample dataset
 ├── images/
 │   └── example_plot.png  # Example of generated plot
-├── Task-01-Data-Visualization.ipynb  # Jupyter Notebook file
+├── prodigy_ds_01.ipynb  # Jupyter Notebook file
 ├── requirements.txt  # Required Python packages
 └── README.md  # Project documentation
 ```
@@ -143,6 +143,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contributors
 
 - **Saumya Poojari** - [saumya.poojarii7@gmail.com]
+- LinkedIn - https://www.linkedin.com/in/ssaumz/
 
 Feel free to reach out with any questions or feedback!
 
