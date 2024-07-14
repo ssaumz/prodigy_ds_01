@@ -5,7 +5,9 @@ Excited to announce the successful completion of Task-01 during my data science 
 
 ## Objectives
 Import and clean data.
+
 Visualize the distribution of a chosen variable using a bar chart or histogram.
+
 Interpret the visualized data to derive meaningful insights.
 
 ## Technologies Used
