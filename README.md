@@ -1,4 +1,4 @@
-## Task-01 - Data Science Internship at Prodigy InfoTech
+## Task-01: Data Science Internship at Prodigy InfoTech
 
 ## Project Overview
 Excited to announce the successful completion of Task-01 during my data science internship at Prodigy InfoTech 🚀. This project involved creating a bar chart or histogram to visualize the distribution of a categorical or continuous variable. Specifically, the project was focused on demonstrating proficiency in data visualization using Python and Jupyter Notebook.
