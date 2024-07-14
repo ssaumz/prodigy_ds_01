@@ -15,7 +15,11 @@ Pandas: Data manipulation library.
 Matplotlib: Visualization library for creating static plots.
 Seaborn: Statistical data visualization library based on Matplotlib.
 
-## Knowledge Acquired
+## Engage with Me
+Feel free to browse through the repository, provide your insights, or contact me for discussions on data science, web development, internships, or any other related subjects. I'm enthusiastic about learning and advancing together with the community!
+
+## Let's Connect !!
+For any questions, feedback, or partnership opportunities, don't hesitate to get in touch. I look forward to connecting with you!## Knowledge Acquired
 Task 1 enhanced my proficiency in visualizing data through bar charts and histograms, allowing for a clearer understanding of the distribution of categorical and continuous variables. This skill has proven invaluable in analyzing population demographics and various other datasets, offering more meaningful insights.
 
 ## Connect with Me
