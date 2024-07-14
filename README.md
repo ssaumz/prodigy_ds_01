@@ -10,9 +10,13 @@ Interpret the visualized data to derive meaningful insights.
 
 ## Technologies Used
 Python: Programming language used for data manipulation and visualization.
+
 Jupyter Notebook: Interactive computing environment for writing and running code.
+
 Pandas: Data manipulation library.
+
 Matplotlib: Visualization library for creating static plots.
+
 Seaborn: Statistical data visualization library based on Matplotlib.
 
 ## Engage with Me
